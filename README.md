@@ -1,2 +1,3 @@
 # GO-Basic
 Fundamentals GO
+Si eres una persona nueva en el lenguaje de GO, aqui adjunto unos ejemplos de la lógica de este programa ya que siempre cuando queremos manipular un nuevo lenguaje nos quedamos en blanco, visualiza los ejemplos, siempre en Go tenemos que tener en cuenta el archivo ".mod" que lo generamos con el siguiente comando "Go mod init [Nombre aquí]" junto con el nombre de donde esta el proyecto (el nombre de la carpeta) de igual forma tomar en cuenta que para ejecutar el programa con el siguiente comando "go run [nombre del archivo .go]" de igual forma tener en cuenta tener instalado GO y la extensión para visual :) espero y saa de tu ayuda.
